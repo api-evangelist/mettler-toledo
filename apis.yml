@@ -28,6 +28,8 @@ apis:
     description: >-
       The Mettler-Toledo International API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mettlertoledo
   - type: Website
     url: https://www.mt.com
 maintainers:
