@@ -24,7 +24,7 @@ description: >-
   Mettler-Toledo International is a major US corporation and Fortune 1000 company. The Mettler-Toledo International API provides programmatic access to its platform services, data, and integrations for enterprise customers and partners.
 created: '2026-04-19'
 modified: '2026-04-19'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: mettler-toledo:mettler-toledo-api
     name: Mettler-Toledo International API
