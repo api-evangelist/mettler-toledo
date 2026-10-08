@@ -52,6 +52,12 @@ apis:
     description: >-
       The Mettler-Toledo International API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/mettler-toledo-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/mettler-toledo-rate-limits.yml
+  - type: FinOps
+    url: finops/mettler-toledo-finops.yml
   - type: VulnerabilityDisclosure
     url: security/mettler-toledo-vulnerability-disclosure.yml
   - type: DomainSecurity
